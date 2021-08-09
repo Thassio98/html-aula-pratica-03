@@ -1,0 +1,22 @@
+{
+  "name": "html-aula-pratica-03",
+  "version": "1.0.0",
+  "description": "Atividade-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thassio98/html-aula-pratica-03.git"
+  },
+  "keywords": [
+    "Aividades"
+  ],
+  "author": "Thassio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thassio98/html-aula-pratica-03/issues"
+  },
+  "homepage": "https://github.com/Thassio98/html-aula-pratica-03#readme"
+}
